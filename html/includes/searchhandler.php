@@ -47,8 +47,8 @@
     }
     ?>  
 
-    <a href="/search.php">Back to Search</a>
+    <a href="/search.html">Back to Search</a>
     <br>
-    <a href="/homepage.php">Back to Add User</a>
+    <a href="/homepage.html">Back to Add User</a>
 </body>
 </html>
