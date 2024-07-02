@@ -10,7 +10,7 @@
 
 <div class="form-container">
     <h2>Contact Us</h2>
-    <form action="includes/formhandler.inc.php" method="POST">
+    <form action="includes/formhandler.php" method="POST">
         <div class="form-group">
             <label for="name">Name:</label>
             <input type="text" id="name" name="name" required>
