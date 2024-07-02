@@ -10,7 +10,7 @@
     <div class="container">
         <h1>Search Page</h1>
         <form action="includes/searchhandler.php" method="GET">
-            <input type="text" name="search_query" placeholder="Enter a name...">
+            <input type="text" name="search_query" placeholder="Enter a name..."/>
             <button type="submit">Search</button>
         </form>
     </div>
