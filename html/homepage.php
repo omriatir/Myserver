@@ -13,7 +13,7 @@
     <form action="includes/formhandler.php" method="POST">
         <div class="form-group">
             <label for="name">Name:</label>
-            <input type="text" id="name" name="name" required>
+            <input type="text" id="name" name="name" required/>
         </div>
         <div class="form-group">
             <label for="email">Email:</label>
